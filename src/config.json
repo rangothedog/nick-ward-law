@@ -1,0 +1,40 @@
+{    
+    "site": {
+        "title": "Ward Law",
+        "description": "Boutique Legal Solutions",
+        "keywords": "law, lawfare, lawyer, attorney, legal, defense attorney, legal defense, jail, prison, sWard Law",
+        "author": "Matthew Meadows",
+        "email": "matthew@odysseystudio.net",
+        "copyright": "Copyright 2025 Ward Law PLLC",
+        "about": {
+            "title": "Boutique Legal Solutions",
+            "description": "Ward Law is a boutique legal solutions provider specializing in defense law.  We serve clients throughout Washington state.",            
+            "paragraphs": [
+                "Greetings from Washington state.  I'm Nick Ward, a Washington defense attorney with 10 years of case law experience.",
+                "My clients are my top priority.  They like me because I keep them out of jail.  I like them because they pay my bills.",
+                "I'm also handsome, funny, and a great dancer.  Judges love me.  Prosecutors fear me.  I'm the best defense attorney in the state."
+            ],
+            "person": "Nickolas Ward",
+            "photo": "../../img/nick-ward-profile-1.jpg"
+        },
+        "contact": {
+            "title": "Contact Ward Law",
+            "description": "Please describe your legal needs in the form below.  I will respond to most inquiries within two days.",
+            "address": "744 5th ST",
+            "suite": "Suite G", 
+            "city": "Clarkston",
+            "state": "WA",
+            "zipcode": "99403",
+            "country": "USA",
+            "phone": "509-552-9779",
+            "email": "nick@attorney-law.com"
+        }
+    },
+    "server": {
+        "name": "odyssey-server",
+        "port": 3001,
+        "host": "localhost",
+        "protocol": "http"
+    }
+}
+  
